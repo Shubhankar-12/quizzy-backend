@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Generated files
+.DS_Store
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+lib-cov
+coverage
+*.seed
+*.pid
+*.yml
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# User-specific files
+.idea/
+.vscode/
