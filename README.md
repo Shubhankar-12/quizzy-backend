@@ -115,6 +115,8 @@ POST /questions
 - jsonwebtoken
 - mongoose
 
-### Thank you for choosing Quizzy! If you have any questions or suggestions, feel free to reach out. Happy quizzing!
+## Showcase Quizzy Frontend
 
-#
+To showcase the use of this backend, you can use the [Quizzy Frontend](https://github.com/Shubhankar-12/quizzy-frontend). It complements this backend, providing a feature-rich interface for seamless user authentication, profile management, and engaging quizzes. Follow the frontend's README for setup and usage instructions.
+
+### Thank you for choosing Quizzy! If you have any questions or suggestions, feel free to reach out. Happy quizzing!
