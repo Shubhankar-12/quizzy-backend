@@ -1,6 +1,6 @@
 # Quizzy Backend
 
-Welcome to Quizzy Backend! This Node.js application serves as the backend for a quiz-related platform, providing user authentication, question management, and user statistics. Utilizing various packages such as bcryptjs, cookie-parser, cors, dotenv, express, express-async-handler, jsonwebtoken, and mongoose, it offers a robust foundation for your quiz application.
+Welcome to Quizzy Backend! This Node.js application serves as the backend for a quiz-related platform, providing user authentication, question management, and user statistics. Utilizing various packages such as bcryptjs, cookie-parser, cors, dotenv, express, express-async-handler, jsonwebtoken, and mongoose, it offers a robust foundation for the quiz application.
 
 ## Installation
 
